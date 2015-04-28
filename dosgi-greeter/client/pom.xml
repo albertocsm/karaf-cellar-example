@@ -32,11 +32,11 @@
     <name>Apache Karaf :: Cellar :: Samples :: DOSGi Greeter :: Client</name>
 
     <dependencies>
-        <dependency>
-          <groupId>org.apache.karaf.cellar</groupId>
-          <artifactId>org.apache.karaf.cellar.core</artifactId>
-          <version>3.0.1</version>
-        </dependency>
+      <dependency>
+        <groupId>org.apache.karaf.cellar</groupId>
+        <artifactId>org.apache.karaf.cellar.core</artifactId>
+        <version>3.0.3-SNAPSHOT</version>
+      </dependency>
         <dependency>
           <groupId>org.osgi</groupId>
           <artifactId>org.osgi.core</artifactId>
