@@ -7,6 +7,8 @@ This is a simple example of Karaf Cellar DOSGi Application.
 * JDK 8
 * Maven 3.1.0 or newer
 * Docker 1.5
+* Karaf 3.0.3
+* [Karaf-Cellar 3.0.3] (https://github.com/albertocsm/karaf-cellar/tree/cellar-3.0.x)
 
 ## Build Greeter Example
 * Move to ./dosgi-greeter
